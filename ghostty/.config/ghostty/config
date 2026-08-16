@@ -1,0 +1,18 @@
+term = xterm-256color
+macos-non-native-fullscreen = true
+
+link-url = true
+theme = Catppuccin Mocha
+font-size = 16
+background-opacity = 0.95
+gtk-titlebar = false
+font-family = Geist Mono Nerd Font
+background-blur-radius = 20
+
+split-divider-color = #080808
+
+macos-titlebar-style = tabs
+auto-update-channel = tip
+
+window-padding-x = 12
+window-padding-y = 10
