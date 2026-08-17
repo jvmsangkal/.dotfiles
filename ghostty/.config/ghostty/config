@@ -9,7 +9,12 @@ gtk-titlebar = false
 font-family = Geist Mono Nerd Font
 background-blur-radius = 20
 
-split-divider-color = #080808
+split-divider-color = #808080
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
+keybind = shift+enter=text:\n
+# keybind = cmd+f=search:Ghostty
+# keybind = shift+cmd+f=search:
+
 
 macos-titlebar-style = tabs
 auto-update-channel = tip
